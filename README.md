@@ -2,7 +2,7 @@
 Welcome to this awesome repository!
 ## 🌈 Getting Started
 # Natural Language Processing in TensorFlow
-here you will find assignement of NLP course provided by deeplearning.ia in coursera . its name is Natural Language Processing in TensorFlow .this repo will help you learning NLP  . on the courses you will find a link
+here you will find assignement of NLP course provided by deeplearning.ia in coursera . its name is Natural Language Processing in TensorFlow .this repo will help you learning NLP  . on the courses you will find a link that will get you to google collab 
 
 ## 🚀 Let's Connect!
 
